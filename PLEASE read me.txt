@@ -18,6 +18,8 @@ Important:
 
 1. Traffic Intensity (#)
 2. Traffic Unlocks
+*. Map Mod Files eg. "Def and so on"
+*. Other Traffic Mods like Jazzycat Packs
 3. Enconomy Mod (V.I.P)
 4. Music Mod (V.I.P)
 5. Real Truck Physics
@@ -27,7 +29,7 @@ Important:
 9. Trailer Mod (+)
 +-------------------------------------------------------+
 
-(+)= If you have these DLCs : High Power Cargo Pack, DLC Scandinavia and DLC Schwarzmüller please use the DLC mod. If not please use the No-DLC Mod of the Pack.
+(+)= If you have these DLCs : High Power Cargo Pack, DLC Scandinavia and DLC Schwarzmüller please use the "DLC mod". If  you dont have one of this DLC's than please use the "No-DLC Mod".
 (#)= If you select this Mods, make sure that you do have a good PC with good CPU core speed.
 (V.I.P)= Only included in our Mod Pack.
 

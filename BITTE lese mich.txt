@@ -18,6 +18,8 @@ Wichtig:
 
 1. Verkehrs Menge /Intensity (#)
 2. Verkehrs Freischaltungen /Unlocks
+*. Map Mod Datein wie "Def usw"
+*. Andere Traffic Mods wie Jazzycat Packs
 3. Enconomy Mod (V.I.P)
 4. Music Mod (V.I.P)
 5. Real Truck Physics
