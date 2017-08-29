@@ -1,5 +1,5 @@
-Vielen Dank für das downloaden unseres Mods von unserer Homepage.
-Mit diesen download, unterstützen Sie uns an diesen Mods zu arbeiten.
+Vielen Dank für das downloaden unserer Mods von unserer Homepage.
+Mit diesen download, unterstützen Sie uns, an diesen Mods zu arbeiten.
 Wenn Sie unserer Arbeit schätzen und ein bisschen was beitragen wollen dann spenden Sie doch ganz einfach auf unserer Homepage.
 
 ------_¦¦¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¦
@@ -28,7 +28,7 @@ Wichtig:
 8. Xenon Lights
 9. Trailer Mod (+)
 
-(+)= Wenn Sie diese DLC's besitzen ; High Power Cargo Pack, DLC Scandinavia und DLC Schwarzmüller dann benutzen Sie bitte
+(+)= Wenn Sie diese DLC's besitzen ; High Power Cargo Pack, Heavy Cargo Pack, DLC Scandinavia und DLC Schwarzmüller dann benutzen Sie bitte
 den "Traffic Trailer DLC" Mod. Falls Sie eines der DLC nicht besitzen, dann benutzen Sie bitte den "Traffic Trailer No-DLC" Mod.
 (#)= Wenn Sie diese Mods benutzen dann stellen Sie bitte sicher, dass Sie ein guten PC besitzen mit guter Prozessor Geschwindikeit und eine gute Grafikkarte mit reichlich V-RAM (Videospeicher). Es kann bei manchen Situationen im Spiel mit einem schlechteren PC zu FPS einstürze führen !
 (V.I.P)= Nur erhältlich beim Kauf des Mod Packs.
@@ -48,7 +48,7 @@ Jorgen Willersrud
 
 [* Unterstützer *]
 DMCA Protection & Takedown Services
-2000 - 2016 All Rights Reserved Digital Millennium Copyright Act Services Ltd. © |   DMCA.com
+2000 - 2017 All Rights Reserved Digital Millennium Copyright Act Services Ltd. © |   DMCA.com
 All Work by D.B Creation © 
 are lincensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
 
@@ -61,5 +61,5 @@ D.B Creation Level Design & Game Modding
 Steam Fangroup: http://steamcommunity.com/groups/DB_CREATION
 Homepage: http://dustin342.wix.com/dbcreation
 E-Mail-Support: dustin342@gmail.com
-Copyright © 2002-2016
+Copyright © 2002-2017
 +-------------------------------------------------------+  

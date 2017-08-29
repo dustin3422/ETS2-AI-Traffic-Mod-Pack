@@ -29,7 +29,7 @@ Important:
 9. Trailer Mod (+)
 +-------------------------------------------------------+
 
-(+)= If you have these DLCs : High Power Cargo Pack, DLC Scandinavia and DLC Schwarzmüller please use the "DLC mod". If  you dont have one of this DLC's than please use the "No-DLC Mod".
+(+)= If you have these DLCs : High Power Cargo Pack, Heavy Cargo Pack, DLC Scandinavia and DLC Schwarzmüller than please use the "DLC Mod". If  you dont have one of this DLC's than please use the "No-DLC Mod".
 (#)= If you select this Mods, make sure that you do have a good PC with good CPU core speed.
 (V.I.P)= Only included in our Mod Pack.
 
