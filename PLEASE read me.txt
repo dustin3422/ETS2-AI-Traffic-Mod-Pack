@@ -20,18 +20,15 @@ Important:
 2. Traffic Unlocks
 *. Map Mod Files eg. "Def and so on"
 *. Other Traffic Mods like Jazzycat Packs
-3. Enconomy Mod (V.I.P)
-4. Music Mod (V.I.P)
-5. Real Truck Physics
-6. Rain Mod (#)
-7. Traffic Essentials
-8. Xenon Lights
-9. Trailer Mod (+)
+3. Real Truck Physics
+4. Rain Mod (#)
+5. Traffic Essentials
+6. Xenon Lights
+7. Trailer Mod (+)
 +-------------------------------------------------------+
 
 (+)= If you have these DLCs : High Power Cargo Pack, Heavy Cargo Pack, DLC Scandinavia and DLC Schwarzmüller than please use the "DLC Mod". If  you dont have one of this DLC's than please use the "No-DLC Mod".
 (#)= If you select this Mods, make sure that you do have a good PC with good CPU core speed.
-(V.I.P)= Only included in our Mod Pack.
 
 +-------------------------------------------------------+
 

@@ -20,18 +20,15 @@ Wichtig:
 2. Verkehrs Freischaltungen /Unlocks
 *. Map Mod Datein wie "Def usw"
 *. Andere Traffic Mods wie Jazzycat Packs
-3. Enconomy Mod (V.I.P)
-4. Music Mod (V.I.P)
-5. Real Truck Physics
-6. Regen Mod (#)
-7. Verkehrs Zusätze /Essentials
-8. Xenon Lights
-9. Trailer Mod (+)
+3. Real Truck Physics
+4. Regen Mod (#)
+5. Verkehrs Zusätze /Essentials
+6. Xenon Lights
+7. Trailer Mod (+)
 
 (+)= Wenn Sie diese DLC's besitzen ; High Power Cargo Pack, Heavy Cargo Pack, DLC Scandinavia und DLC Schwarzmüller dann benutzen Sie bitte
 den "Traffic Trailer DLC" Mod. Falls Sie eines der DLC nicht besitzen, dann benutzen Sie bitte den "Traffic Trailer No-DLC" Mod.
 (#)= Wenn Sie diese Mods benutzen dann stellen Sie bitte sicher, dass Sie ein guten PC besitzen mit guter Prozessor Geschwindikeit und eine gute Grafikkarte mit reichlich V-RAM (Videospeicher). Es kann bei manchen Situationen im Spiel mit einem schlechteren PC zu FPS einstürze führen !
-(V.I.P)= Nur erhältlich beim Kauf des Mod Packs.
 
 +-------------------------------------------------------+
 
